@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 other colored
 funny
+=======
+other colered
+funny
+
+monkey funny
+>>>>>>> ramab
